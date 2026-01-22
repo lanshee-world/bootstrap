@@ -1,0 +1,36 @@
+#blank{
+    background-color: navy;
+    height: 80px;
+}
+#facebook{
+    border-radius: 110px;
+    height: 80px;
+}
+#instagram{
+    border-radius: 110px;
+    height: 80px;
+}
+#twitter{
+    border-radius: 110px;
+    height: 80px;
+}
+.heading{
+    text-decoration: underline yellow;
+    font-size: 30px;
+}
+.list-group-item-action:hover{
+    text-decoration: none;
+    background-color: lightgray;
+}
+#phone{
+    border-radius: 110px;
+    height: 80px;
+}
+#mail{
+    border-radius: 110px;
+    height: 80px;
+}
+#location{
+    border-radius: 110px;
+    height: 80px;
+}
